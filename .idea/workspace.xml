@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ef50b47-105e-4586-844b-01faf367f69b" name="Default Changelist" comment="[add]&quot;记忆&quot;项目springboot工程文件">
+    <list default="true" id="7ef50b47-105e-4586-844b-01faf367f69b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +118,7 @@
       <workItem from="1585661947372" duration="395000" />
       <workItem from="1586009587367" duration="10139000" />
       <workItem from="1586265888790" duration="570000" />
-      <workItem from="1586680093999" duration="2753000" />
+      <workItem from="1586680093999" duration="3391000" />
     </task>
     <task id="LOCAL-00001" summary="[add]&quot;记忆&quot;项目springboot工程文件">
       <created>1586697265639</created>
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586697265639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[add]&quot;记忆&quot;项目springboot工程文件">
+      <created>1586698049870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586698049870</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,10 +165,10 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="709" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1585453674227" />
-    <state x="350" y="153" width="1044" height="795" key="CommitChangelistDialog2" timestamp="1586697838712">
+    <state x="350" y="153" width="1044" height="795" key="CommitChangelistDialog2" timestamp="1586698049760">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="350" y="153" width="1044" height="795" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1586697838712" />
+    <state x="350" y="153" width="1044" height="795" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1586698049760" />
     <state width="1750" height="284" key="GridCell.Tab.0.bottom" timestamp="1586270392666">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
@@ -218,14 +225,14 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="708" y="249" key="RollbackChangesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1586697793706" />
-    <state x="85" y="166" key="SettingsEditor" timestamp="1586680646997">
+    <state x="85" y="166" key="SettingsEditor" timestamp="1586698980534">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="85" y="166" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1586680646997" />
-    <state x="496" y="260" key="Vcs.Push.Dialog.v2" timestamp="1586697444757">
+    <state x="85" y="166" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1586698980534" />
+    <state x="496" y="260" key="Vcs.Push.Dialog.v2" timestamp="1586698125903">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="496" y="260" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1586697444757" />
+    <state x="496" y="260" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1586698125903" />
     <state x="573" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586680107248">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
