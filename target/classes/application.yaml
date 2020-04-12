@@ -1,0 +1,18 @@
+spring:
+  profiles:
+    active: dev
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+  application:
+    name: yuchengxin
+
+#解决metrics 401的问题
+management:
+  security:
+    enabled: false
+
+# http的header头的大小扩展至2MB
+server:
+  max-http-header-size: 2097152
