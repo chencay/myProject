@@ -9,6 +9,6 @@ springboot端：
   
   >>3.数据库使用mysql和mongodb
   
-  >>4.实现了最简单的token方式注册、登录和登出的接口(不安全)
+  >>4.实现了jwt token方式注册、登录和登出的接口
 
 仅作为最基础的入门springboot后端框架使用
